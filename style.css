@@ -4,8 +4,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("heart-bg.jpg");
+    background-image: url("heart-bg.png");
     font-family: "Pixelify Sans", sans-serif;
+    background-size: cover;
 }
 
 /* Envelope Screen */
